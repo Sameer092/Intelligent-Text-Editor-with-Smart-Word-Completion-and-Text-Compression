@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\Sameer\3rd Semester\Data Structure Lab\FP\Finalone\Source.cpp(110,8): warning C4551: function call missing argument list
+F:\Sameer\3rd Semester\Data Structure Lab\FP\Finalone\Source.cpp(117,9): warning C4551: function call missing argument list
+F:\Sameer\3rd Semester\Data Structure Lab\FP\Finalone\Source.cpp(173,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Finalone.vcxproj -> F:\Sameer\3rd Semester\Data Structure Lab\FP\Finalone\x64\Debug\Finalone.exe
